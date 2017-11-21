@@ -1,3 +1,3 @@
 # TicTacToeRL
 
-Tic tac toe game with reinforcement learning agent.
+Tic tac toe game with reinforcement learning.
